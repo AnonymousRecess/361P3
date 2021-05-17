@@ -1,0 +1,9 @@
+a|a*b
+e
+a
+aaab
+ba
+b
+aa
+abb
+bb
